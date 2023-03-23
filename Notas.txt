@@ -1,0 +1,3 @@
+Para agreagar un submodulo es asi
+git submodule add "aqui la url de git" {luego defines la ruta a donde ira}
+Ejemplo: git submodule add https://github.com/gabime/spdlog Hazel/vendor/spdlog
